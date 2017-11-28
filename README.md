@@ -26,7 +26,7 @@ envReplace('config/*.yaml')
 
 ### envReplace(pattern)
 
-Replaces environment variable placeholders in any file that matches the patter.
+Replaces environment variable placeholders in any file that matches the pattern.
 
 #### pattern
 
