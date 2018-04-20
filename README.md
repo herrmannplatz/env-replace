@@ -1,5 +1,7 @@
 # env-replace
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/herrmannplatz/env-replace.svg)](https://greenkeeper.io/)
+
 [![npm version](https://badge.fury.io/js/env-replace.svg)](https://badge.fury.io/js/env-replace) [![Build Status](https://travis-ci.org/herrmannplatz/env-replace.svg?branch=master)](https://travis-ci.org/herrmannplatz/env-replace)
 
 > Replaces all environment variable placeholders in a file
